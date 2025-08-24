@@ -16,9 +16,9 @@
 ## 📌 Projetos em Destaque
 ✨ Confira alguns dos meus principais projetos aqui no GitHub:
 
-- [**DevFlix**](https://github.com/alexandremdeveloper/devflix) → Plataforma estilo Netflix para desenvolvedores.  
-- [**Portfólio Pessoal**](https://github.com/alexandremdeveloper/alexandremdeveloper.github.io) → Meu site online hospedado com GitHub Pages.  
-- [**Calculadora Básica**](https://github.com/alexandremdeveloper/calculadora) → Exemplo de aplicação simples em JavaScript.  
+- [**DevFlix**](https://github.com/alexandremdeveloper/jurassicParkTheSite) → Plataforma simples com HTML, CSS e Javascript em um estilo mais retrô sobre Dinossauros.  
+- [**Game Javascript**](https://github.com/alexandremdeveloper/game-javascript) → Um jogo simples feito em HTML, CSS e Javascript usando Canvas.  
+- [**Calculadora Básica**](https://github.com/alexandremdeveloper/calculator-react) → Exemplo de aplicação simples em React.  
 
 ---
 
