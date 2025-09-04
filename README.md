@@ -30,7 +30,7 @@
 
 ## 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-martins/)  
-- 🌐 [Portfólio Online](https://alexandremdeveloper.github.io)  
+- 🌐 [Portfólio Online](https://github.com/alexandremdeveloper)  
 - ✉️ **Email:** alexandresmartinsbr@gmail.com
 
 ---
