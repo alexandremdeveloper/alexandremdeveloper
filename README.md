@@ -6,8 +6,8 @@
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express, Python  
+- **Frontend:** React, Angular, HTML, CSS, Bootstrap, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express, .NET  
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
 - **Outros:** Git, Docker, APIs REST  
 
@@ -35,4 +35,4 @@
 
 ---
 
-⭐️ *Sempre aberto a novas conexões e oportunidades como desenvolvedor PJ!*
+⭐️ *Sempre aberto a novas conexões e oportunidades como desenvolvedor!*
