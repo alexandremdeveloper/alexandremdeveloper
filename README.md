@@ -7,7 +7,7 @@
 
 ## 🔧 Tecnologias & Ferramentas
 - **Frontend:** React, Angular, HTML, CSS, Bootstrap, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express, .NET  
+- **Backend:** Node.js, Express, .NET, JAVA
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
 - **Outros:** Git, Docker, APIs REST  
 
